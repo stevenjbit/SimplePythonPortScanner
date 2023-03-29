@@ -15,4 +15,4 @@ I wanted to create a simple port scanner with Python to grow my understanding of
 <img src="https://i.imgur.com/1fRWFiI.jpg" height="80%" width="80%" />
 <img src="https://i.imgur.com/q62jVtu.jpg" height="80%" width="80%" />
 
-As can be seen, this port scanner is rather slow (although port scanning is generally a slow process). A future edit will institute threading to speed it up somewhat. It would also be a good idea to edit the code to narrow the range of ports to be scanned. 
+As can be seen, this port scanner is rather slow (although port scanning is generally a slow process). A future edit will institute threading to speed it up somewhat. It would also be a good idea to edit the code to narrow the range of ports to be scanned, such as between the common ports of 1-1024, for example. 
